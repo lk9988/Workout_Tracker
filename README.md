@@ -7,6 +7,7 @@
 - [ Description ](#des)
 - [ User Story ](#us)
 - [ Business Context ](#bc)
+- [ Demonstration ](#demo)
 - [ Deployed Link](#link)
 - [ Tech Used](#tech)
 - [ Questions](#q)
@@ -26,6 +27,10 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 ```
 A consumer will reach their fitness goals more quickly when they track their workout progress.
 ```
+
+## Demonstration <a name="demo"></a>
+
+![app demo](workout.png)
 
 ## Deployed Link <a name="link"></a>
 
